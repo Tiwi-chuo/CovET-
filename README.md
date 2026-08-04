@@ -1,2 +1,4 @@
-# CovET-
-This is combination Eye Tracking and Go-NoGo task to revealed covert attention to measure brand strenght
+# CovET- 
+CovET (Covert Eye Tracking) is an experimental paradigm that combines eye-tracking technology with a Go/No-Go task to investigate covert visual attention. Unlike conventional eye-tracking studies that primarily measure overt gaze behavior, CovET is designed to examine whether visual information can be processed without direct fixation.
+In this paradigm, participants are instructed to respond (Go) or withhold their response (No-Go) based on predefined target criteria while their eye movements are continuously recorded. By integrating behavioral responses with gaze data, CovET enables researchers to identify covert attention—attentional processing that occurs outside the current point of fixation.
+In this study, CovET is applied to evaluate brand strength by examining whether familiar and unfamiliar brand logos can be recognized through covert attention. The paradigm provides an objective measure of implicit brand recognition, allowing researchers to investigate how brand familiarity influences visual processing even when the logo is not directly fixated.
